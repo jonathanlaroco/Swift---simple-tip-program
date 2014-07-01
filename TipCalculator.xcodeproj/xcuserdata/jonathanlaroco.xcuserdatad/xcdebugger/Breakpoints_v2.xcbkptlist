@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipCalculator/ViewController.swift"
+            timestampString = "425787377.104668"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalculator.ViewController.resultsTextView.getter : @weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextView&gt;"
+                  moduleName = "TipCalculator"
+                  urlString = "file:///Users/jonathanlaroco/Desktop/Apps/Roommate%20App/TipCalculator/TipCalculator/ViewController.swift"
+                  timestampString = "425787377.118599"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalculator.ViewController.resultsTextView.setter : @weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextView&gt;"
+                  moduleName = "TipCalculator"
+                  urlString = "file:///Users/jonathanlaroco/Desktop/Apps/Roommate%20App/TipCalculator/TipCalculator/ViewController.swift"
+                  timestampString = "425787377.120828"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalculator.ViewController.init (TipCalculator.ViewController.Type)(nibName : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;, bundle : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSBundle&gt;) -&gt; TipCalculator.ViewController"
+                  moduleName = "TipCalculator"
+                  urlString = "file:///Users/jonathanlaroco/Desktop/Apps/Roommate%20App/TipCalculator/TipCalculator/ViewController.swift"
+                  timestampString = "425787377.121076"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "335">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalculator.ViewController.init (TipCalculator.ViewController.Type)(coder : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSCoder&gt;) -&gt; TipCalculator.ViewController"
+                  moduleName = "TipCalculator"
+                  urlString = "file:///Users/jonathanlaroco/Desktop/Apps/Roommate%20App/TipCalculator/TipCalculator/ViewController.swift"
+                  timestampString = "425787377.121268"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
